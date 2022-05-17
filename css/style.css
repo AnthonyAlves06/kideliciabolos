@@ -561,7 +561,7 @@ input {
 
     #section2 {
         width: 100vw;
-        height: 100vh;
+        height: 102vh;
         background-color: #f44995;
         display: flex;
     }
@@ -574,7 +574,7 @@ input {
         border-radius: 20px;
         position: absolute;
         left: 3vw;
-        top: 118%;
+        top: 123%;
     }
 
     .bar {
@@ -629,13 +629,20 @@ input {
     }
 
     /* --> Section4 - Endereço Mobile*/
+
+    #section4 {
+        width: 100vw;
+        height: 102vh;
+        background-color: #f44995;
+    }
+
     .frase-section4 {
         width: 90vw;
         color: #ffffff;
         text-align: center;
         font-size: 32px;
         font-family: 'PT Sans', sans-serif;
-        padding-top: 8vh;
+        padding-top: 4vh;
         padding-left: 5vw;
     }
 
@@ -643,9 +650,9 @@ input {
         width: 90vw;
         color: #ffffff;
         text-align: center;
-        font-size: 32px;
+        font-size: 25px;
         font-family: 'PT Sans', sans-serif;
-        padding-top: 8vh;
+        padding-top: 4vh;
         padding-left: 5vw;
     }
 
